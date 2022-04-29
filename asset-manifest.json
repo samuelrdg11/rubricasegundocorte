@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rubricasegundocorte/static/css/main.e2cb6bce.css",
+    "main.js": "/rubricasegundocorte/static/js/main.4c8716da.js",
+    "index.html": "/rubricasegundocorte/index.html",
+    "main.e2cb6bce.css.map": "/rubricasegundocorte/static/css/main.e2cb6bce.css.map",
+    "main.4c8716da.js.map": "/rubricasegundocorte/static/js/main.4c8716da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2cb6bce.css",
+    "static/js/main.4c8716da.js"
+  ]
+}
